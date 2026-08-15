@@ -307,6 +307,10 @@ The core Perceptron and Logistic Regression learning logic is implemented manual
 
 ---
 
+![Training Loss](images/logistic_regression_loss.png)
+
+![Model Comparison](images/model_comparison.png)
+
 ## 📁 Project Structure
 
 ```text
