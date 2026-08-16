@@ -1,6 +1,6 @@
+fastapi
+uvicorn
+pydantic
 numpy
 pandas
-matplotlib
 scikit-learn
-jupyter
-notebook
