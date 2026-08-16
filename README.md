@@ -410,6 +410,14 @@ Repeat
 The project also reinforced the importance of evaluating classification models using multiple metrics rather than relying only on accuracy.
 
 ---
+## 🚀 Live Deployment
+
+This project is deployed as a FastAPI web service using Render.
+
+| Resource | Link |
+|---|---|
+| 🌐 Live API | https://logistic-regression-api-sn8y.onrender.com |
+| 📚 API Documentation | https://logistic-regression-api-sn8y.onrender.com/docs |
 
 ## 🔮 Future Work
 
